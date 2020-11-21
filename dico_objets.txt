@@ -1,0 +1,7 @@
+(3, 3), 'Les docstrings contiennent les noms des auteurs.'
+(19, 15), 'Les chevaux sont soit : Noir, Alezan, Bai ou Gris.'
+(21, 23), 'Voici un oreiller.'
+(21, 37), "La famille des Médicis est très grande! L'une des reine de France (et de Navarre) en était issue"
+(33, 49), 'La lumière du soleil met 8 minutes à nous parvenir.'
+(47, 9), "La préfecture du Val d'Oise est Cergy(-Pontoise)"
+(45, 45), "L'école d'ingénieur de Free est au 42"
